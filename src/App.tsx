@@ -8,7 +8,6 @@ export default function Board() {
   const [multiPlayer, setMultiPlayer] = useState<boolean>(true);
   const [multiPlayerFirstMoveDone, setMultiPlayerFirstMoveDone] = useState<boolean>(false);
   const [status, setStatus] = useState<string>("Next player : X");
-  const [winBoxIndexes, setWinBoxIndexes] = useState<string>("");
   const [cssStyle, setCssStyle] = useState<any>(null);
   let winner: string = "";
   const lines = [
@@ -94,7 +93,6 @@ export default function Board() {
   }
 
   function setWinRec(winIndexes: string) {
-    console.log(winAllCSSConfig.get(winIndexes));
     setCssStyle(winAllCSSConfig.get(winIndexes) ?? null);
   }
 
@@ -102,8 +100,6 @@ export default function Board() {
     for (let i = 0; i < lines.length; i++) {
       const [a, b, c] = lines[i];
       if (squares[a] && squares[a] === squares[b] && squares[a] === squares[c]) {
-        console.log(a, b, c);
-        setWinBoxIndexes(`${a}${b}${c}`);
         const winIndexes = `${a}${b}${c}`;
         setWinRec(winIndexes);
         return squares[a];
