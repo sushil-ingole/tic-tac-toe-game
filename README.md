@@ -1,4 +1,4 @@
-# Tic-Tac-Toe PWA
+# Tic-Tac-Toe Game
 
 ![Tic-Tac-Toe](./public/tic-tac-toe-icon.png)
 
