@@ -15,17 +15,17 @@ Tic-Tac-Toe PWA is a Progressive Web App version of the classic Tic-Tac-Toe game
 
 ## Demo
 
-Check out the live demo [here](https://demo-link.com).
+Check out the live demo [here](https://tic-tac-toe-game-wj3j.onrender.com/).
 
 ## Installation
 
-To install and run the Tic-Tac-Toe PWA locally:
+To install and run the Tic-Tac-Toe locally:
 
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/tic-tac-toe-pwa.git
-    cd tic-tac-toe-pwa
+    git clone https://github.com/your-username/tic-tac-toe-game.git
+    cd tic-tac-toe-game
     ```
 
 2. **Install dependencies:**
