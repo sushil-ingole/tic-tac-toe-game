@@ -97,7 +97,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or feedback, feel free to reach out:
 
 - **Email:** sushilingole2024@example.com
-- **GitHub:** [your-username](https://github.com/sushil-ingole)
+- **GitHub:** [sushil-ingole](https://github.com/sushil-ingole)
 
 ---
 
