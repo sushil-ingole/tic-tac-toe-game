@@ -1,4 +1,4 @@
-# Tic-Tac-Toe PWA
+# Tic-Tac-Toe Game
 
 ![Tic-Tac-Toe](./public/tic-tac-toe-icon.png)
 
@@ -37,10 +37,10 @@ To install and run the Tic-Tac-Toe PWA locally:
 3. **Run the app:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
-    The app will be available at `http://localhost:3000`.
+    The app will be available at `http://localhost:5173`.
 
 4. **Build for production:**
 
@@ -88,16 +88,12 @@ Contributions are welcome! Please follow these steps:
 
 5. **Create a pull request.**
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact
 
 If you have any questions or feedback, feel free to reach out:
 
 - **Email:** sushilingole2024@example.com
-- **GitHub:** [your-username](https://github.com/sushil-ingole)
+- **GitHub:** [sushil-ingole](https://github.com/sushil-ingole)
 
 ---
 
