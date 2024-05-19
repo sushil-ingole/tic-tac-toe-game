@@ -37,10 +37,10 @@ To install and run the Tic-Tac-Toe PWA locally:
 3. **Run the app:**
 
     ```bash
-    npm start
+    npm run dev
     ```
 
-    The app will be available at `http://localhost:3000`.
+    The app will be available at `http://localhost:5173`.
 
 4. **Build for production:**
 
