@@ -27,7 +27,7 @@
   .container {
     display: grid;
     place-items: center;
-    width: 100%;
+    width: 97%;
     max-width: 600px;
     gap: 0;
     height: 96vh;
@@ -69,7 +69,7 @@
 
       .square {
         z-index: 1;
-        /* font-size: 1.5rem; */
+        font-size: 25px;
         border: 2px solid black;
         border-radius: 0;
         color: #fff;
@@ -80,10 +80,9 @@
         border: 2px solid #0a4ac0;
         box-shadow: 0 0 1px #2528b4, 0 0 2px #2528b4, 0 0 6px #2528b4, 0 0 12px #2528b4, inset 0 0 1px #2528b4, inset 0 0 2px #2528b4, inset 0 0 6px #2528b4, inset 0 0 12px #2528b4;
         outline: none;
-        /* height: 100%;
-        width: var(--square-size); */
         height: var(--square-size);
         aspect-ratio: 1;
+        padding: 0;
       }
     }
 
