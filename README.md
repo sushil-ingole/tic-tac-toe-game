@@ -4,7 +4,7 @@
 
 ## Overview
 
-Tic-Tac-Toe PWA is a Progressive Web App version of the classic Tic-Tac-Toe game, built with React. It features two game modes: play against another human or challenge the bot. The app is also installable, allowing you to enjoy the game offline.
+This is a classic Tic-Tac-Toe game, built with React. It features two game modes: play against another human or challenge the bot. The app is also installable, allowing you to enjoy the game offline.
 
 ## Features
 
